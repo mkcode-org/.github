@@ -2,7 +2,7 @@ import Link from 'next/link'
 import '../styles/globals.css'
 
 const App = () => (
-	<div className='h-[100vh] w-full relative flex flex-col justify-center items-center'>
+	<div className='h-[100dvh] w-full relative flex flex-col justify-center items-center'>
 		<p className='text-4xl select-none'>
 			mk means make<span className='animate-logo-pulse'>_</span>
 		</p>
